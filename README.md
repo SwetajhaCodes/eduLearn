@@ -42,13 +42,14 @@ Students can:
 ## 📸 Application Screenshots
 
 ### 🔹 Google Authentication
-![Google Authentication](google_auth_signin.png)
+
+![Google Authentication](screenshots/google_auth_signin.jpg)
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.jpg)
 
 ### 🔹 Course Added by Admin
-![Course Added by Admin](cousre_addedByAdmin.png)
+![Course Added](screenshots/course_added_by_admin.jpg)
 
 ### 🔹 Course Details (Student View)
-![Course Details](course_details.png)
+![Course Details](screenshots/course_details.jpg)
